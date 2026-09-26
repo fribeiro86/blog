@@ -1,0 +1,338 @@
+/* ===========================================
+   VARIÁVEIS DE COR (PALETA LARANJA)
+   =========================================== */
+:root {
+    --theme: rgb(255, 255, 255);
+    --entry: rgb(255, 255, 255);
+    --primary: rgb(17, 17, 17);
+    --secondary: rgb(241, 90, 36);
+    --tertiary: rgb(230, 230, 230);
+    --content: rgb(30, 30, 30);
+    --code-bg: rgb(248, 248, 248);
+    --border: rgb(235, 235, 235);
+
+    --laranja: #f15a24;
+    --laranja-escuro: #c8451a;
+}
+
+.dark {
+    --theme: rgb(17, 17, 17);
+    --entry: rgb(26, 26, 26);
+    --primary: rgb(245, 245, 245);
+    --secondary: rgb(241, 90, 36);
+    --tertiary: rgb(50, 50, 50);
+    --content: rgb(220, 220, 220);
+    --code-bg: rgb(35, 35, 35);
+    --border: rgb(45, 45, 45);
+}
+
+/* ===========================================
+   LINKS GERAIS
+   =========================================== */
+a,
+.post-content a,
+.post-content a:visited {
+    color: var(--laranja);
+}
+
+a:hover,
+.post-content a:hover {
+    color: var(--laranja-escuro);
+    text-decoration: underline;
+}
+
+/* ===========================================
+   MENU DO TOPO
+   =========================================== */
+#menu a,
+nav a,
+.header-nav a {
+    color: var(--laranja) !important;
+}
+
+#menu a:hover,
+nav a:hover,
+.header-nav a:hover {
+    color: var(--laranja-escuro) !important;
+}
+
+/* ===========================================
+   BREADCRUMBS
+   =========================================== */
+.breadcrumbs a {
+    color: var(--laranja) !important;
+}
+
+.breadcrumbs a:hover {
+    color: var(--laranja-escuro) !important;
+}
+
+/* ===========================================
+   TÍTULOS DOS POSTS
+   =========================================== */
+.post-title a,
+.entry-header h2 a {
+    color: var(--primary);
+}
+
+.post-title a:hover,
+.entry-header h2 a:hover {
+    color: var(--laranja) !important;
+}
+
+/* ===========================================
+   BOTÃO DE TEMA (sol/lua)
+   =========================================== */
+#theme-toggle,
+#theme-toggle svg {
+    color: var(--laranja) !important;
+    border-color: var(--laranja) !important;
+}
+
+/* ===========================================
+   SUMÁRIO (TOC)
+   =========================================== */
+.toc a {
+    color: var(--laranja) !important;
+}
+
+.toc a:hover {
+    color: var(--laranja-escuro) !important;
+}
+
+/* ===========================================
+   TAGS
+   =========================================== */
+.post-tags a,
+.terms-tags a {
+    background: var(--laranja) !important;
+    color: white !important;
+    border-radius: 4px;
+    padding: 2px 8px;
+}
+
+.post-tags a:hover,
+.terms-tags a:hover {
+    background: var(--laranja-escuro) !important;
+}
+
+/* ===========================================
+   1. BOTÕES COM FUNDO LARANJA
+   =========================================== */
+.button,
+button,
+input[type="submit"],
+input[type="button"],
+.paginav a,
+.paginav span {
+    background: var(--laranja) !important;
+    color: white !important;
+    border: 1px solid var(--laranja) !important;
+    border-radius: 6px;
+    padding: 8px 16px;
+    font-weight: 600;
+    transition: all 0.2s ease;
+}
+
+.button:hover,
+button:hover,
+input[type="submit"]:hover,
+input[type="button"]:hover,
+.paginav a:hover {
+    background: var(--laranja-escuro) !important;
+    border-color: var(--laranja-escuro) !important;
+    color: white !important;
+    transform: translateY(-1px);
+}
+
+/* ===========================================
+   2. TABELAS COM CABEÇALHO LARANJA
+   =========================================== */
+.post-content table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 1.5em 0;
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+.post-content table thead {
+    background: var(--laranja) !important;
+}
+
+.post-content table thead th {
+    color: white !important;
+    font-weight: 700;
+    padding: 12px;
+    text-align: left;
+    border: none;
+}
+
+.post-content table tbody tr:nth-child(even) {
+    background: rgba(241, 90, 36, 0.05);
+}
+
+.post-content table tbody td {
+    padding: 10px 12px;
+    border-bottom: 1px solid var(--border);
+}
+
+.dark .post-content table tbody tr:nth-child(even) {
+    background: rgba(241, 90, 36, 0.1);
+}
+
+/* ===========================================
+   3. BLOCKQUOTES COM BORDA LARANJA
+   =========================================== */
+.post-content blockquote {
+    border-left: 4px solid var(--laranja) !important;
+    background: rgba(241, 90, 36, 0.06);
+    padding: 12px 20px;
+    margin: 1.5em 0;
+    border-radius: 0 6px 6px 0;
+    font-style: normal;
+    color: var(--content);
+}
+
+.dark .post-content blockquote {
+    background: rgba(241, 90, 36, 0.12);
+}
+
+.post-content blockquote strong {
+    color: var(--laranja);
+}
+
+/* ===========================================
+   4. CÓDIGO INLINE DESTACADO
+   =========================================== */
+.post-content code:not(pre code) {
+    background: rgba(241, 90, 36, 0.12) !important;
+    color: var(--laranja-escuro) !important;
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-size: 0.9em;
+    font-weight: 600;
+    border: 1px solid rgba(241, 90, 36, 0.25);
+}
+
+.dark .post-content code:not(pre code) {
+    background: rgba(241, 90, 36, 0.2) !important;
+    color: #ffb08a !important;
+    border-color: rgba(241, 90, 36, 0.4);
+}
+
+/* ===========================================
+   5. BOTÃO "VOLTAR AO TOPO" LARANJA
+   =========================================== */
+#top-link,
+.top-link {
+    background: var(--laranja) !important;
+    color: white !important;
+    border-radius: 50%;
+    box-shadow: 0 4px 12px rgba(241, 90, 36, 0.4);
+}
+
+#top-link:hover,
+.top-link:hover {
+    background: var(--laranja-escuro) !important;
+    transform: translateY(-3px);
+    box-shadow: 0 6px 16px rgba(241, 90, 36, 0.5);
+}
+
+/* ===========================================
+   6. FOTO DO AUTOR COM BORDA LARANJA
+   =========================================== */
+.profile img,
+.author-avatar,
+.post-author img,
+img.profile {
+    border: 3px solid var(--laranja) !important;
+    box-shadow: 0 0 0 4px rgba(241, 90, 36, 0.15);
+    transition: all 0.3s ease;
+}
+
+.profile img:hover,
+.author-avatar:hover {
+    box-shadow: 0 0 0 6px rgba(241, 90, 36, 0.25);
+}
+
+/* ===========================================
+   7. SCROLLBAR LARANJA
+   =========================================== */
+::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--theme);
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--laranja);
+    border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--laranja-escuro);
+}
+
+html {
+    scrollbar-color: var(--laranja) var(--theme);
+    scrollbar-width: thin;
+}
+
+/* ===========================================
+   8. HEADER COM BORDA LARANJA
+   =========================================== */
+.header {
+    border-bottom: 2px solid var(--laranja) !important;
+    background: var(--theme);
+}
+
+.nav {
+    background: var(--theme);
+}
+
+/* ===========================================
+   BÔNUS: DETALHES EXTRAS
+   =========================================== */
+
+.post-content h2 {
+    border-bottom: 2px solid rgba(241, 90, 36, 0.3);
+    padding-bottom: 8px;
+    margin-top: 2em;
+}
+
+.post-content ul li::marker {
+    color: var(--laranja);
+    font-weight: bold;
+}
+
+.post-content ol li::marker {
+    color: var(--laranja);
+    font-weight: bold;
+}
+
+.post-content a {
+    text-decoration-color: rgba(241, 90, 36, 0.4);
+    text-underline-offset: 3px;
+    transition: text-decoration-color 0.2s;
+}
+
+.post-content a:hover {
+    text-decoration-color: var(--laranja);
+}
+
+.post-content hr {
+    border: none;
+    height: 2px;
+    background: linear-gradient(
+        to right,
+        transparent,
+        var(--laranja),
+        transparent
+    );
+    margin: 2em 0;
+    opacity: 0.5;
+}
