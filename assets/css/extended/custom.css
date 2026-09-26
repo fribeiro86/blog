@@ -81,8 +81,17 @@ nav a:hover,
 }
 
 /* ===========================================
-   BOTÃO DE TEMA (sol/lua)
+   BOTÃO DE TEMA (sol/lua) — RESET TOTAL
    =========================================== */
+#theme-toggle {
+    background: transparent !important;
+    border: none !important;
+    padding: 0 !important;
+    box-shadow: none !important;
+    width: auto !important;
+    height: auto !important;
+}
+
 #theme-toggle,
 #theme-toggle svg {
     color: var(--laranja) !important;
@@ -118,13 +127,12 @@ nav a:hover,
 
 /* ===========================================
    1. BOTÕES COM FUNDO LARANJA
+   (exceto o botão de tema)
    =========================================== */
 .button,
-button,
+button:not(#theme-toggle),
 input[type="submit"],
-input[type="button"],
-.paginav a,
-.paginav span {
+input[type="button"] {
     background: var(--laranja) !important;
     color: white !important;
     border: 1px solid var(--laranja) !important;
@@ -135,14 +143,36 @@ input[type="button"],
 }
 
 .button:hover,
-button:hover,
+button:not(#theme-toggle):hover,
 input[type="submit"]:hover,
-input[type="button"]:hover,
-.paginav a:hover {
+input[type="button"]:hover {
     background: var(--laranja-escuro) !important;
     border-color: var(--laranja-escuro) !important;
     color: white !important;
     transform: translateY(-1px);
+}
+
+/* ===========================================
+   NAVEGAÇÃO ENTRE POSTS (anterior/próximo)
+   =========================================== */
+.paginav {
+    display: flex;
+    gap: 1em;
+}
+
+.paginav a {
+    background: transparent !important;
+    color: var(--laranja) !important;
+    border: 1px solid var(--laranja) !important;
+    border-radius: 6px;
+    padding: 10px 16px;
+    font-weight: 600;
+    transition: all 0.2s ease;
+}
+
+.paginav a:hover {
+    background: var(--laranja) !important;
+    color: white !important;
 }
 
 /* ===========================================
