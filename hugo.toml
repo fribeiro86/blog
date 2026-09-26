@@ -17,7 +17,7 @@ theme = "PaperMod"
   disableSpecial1stPost = false
   displayFullLangName = false
   ShowFullTextinRSS = false
-
+ 
   [params.homeInfoParams]
     Title = "Blog do Fabricio Ribeiro"
     Content = "Computação forense, impugnação de laudo pericial e assinatura eletrônica."
@@ -41,3 +41,8 @@ theme = "PaperMod"
     name = "Sobre"
     url = "/about/"
     weight = 20
+
+ [params.assets]
+    favicon = "/favicon.ico"
+
+ 
