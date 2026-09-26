@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Fabricio Ribeiro — Perito Judicial</title>
+    <link>http://localhost:1313/blog/tags/</link>
+    <description>Recent content in Tags on Fabricio Ribeiro — Perito Judicial</description>
+    <generator>Hugo</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Sat, 26 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assinatura Eletrônica</title>
+      <link>http://localhost:1313/blog/tags/assinatura-eletr%C3%B4nica/</link>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/tags/assinatura-eletr%C3%B4nica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Impugnação</title>
+      <link>http://localhost:1313/blog/tags/impugna%C3%A7%C3%A3o/</link>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/tags/impugna%C3%A7%C3%A3o/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Laudo Pericial</title>
+      <link>http://localhost:1313/blog/tags/laudo-pericial/</link>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/tags/laudo-pericial/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,3 +1,43 @@
-baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'My New Hugo Project'
+baseURL = "https://fribeiro86.github.io/blog/"
+languageCode = "pt-BR"
+title = "Fabricio Ribeiro — Perito Judicial"
+theme = "PaperMod"
+
+[params]
+  author = "Fabricio do Nascimento Ribeiro"
+  description = "Blog sobre computação forense, impugnação de laudo pericial e assinatura eletrônica"
+  defaultTheme = "dark"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  TocOpen = false
+  disableSpecial1stPost = false
+  displayFullLangName = false
+  ShowFullTextinRSS = false
+
+  [params.homeInfoParams]
+    Title = "Blog do Fabricio Ribeiro"
+    Content = "Computação forense, impugnação de laudo pericial e assinatura eletrônica."
+
+    [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/fabricio-ribeiro-perito/"
+
+  [[params.socialIcons]]
+    name = "instagram"
+    url = "https://www.instagram.com/perito_fabriciorib_sc/"
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Artigos"
+    url = "/posts/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about"
+    name = "Sobre"
+    url = "/about/"
+    weight = 20
