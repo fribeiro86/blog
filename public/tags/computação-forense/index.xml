@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Computação Forense on Fabricio Ribeiro — Perito Judicial</title>
-    <link>https://blog.peritofabricioribeiro.com.br/tags/computa%C3%A7%C3%A3o-forense/</link>
+    <link>http://localhost:53494/tags/computa%C3%A7%C3%A3o-forense/</link>
     <description>Recent content in Computação Forense on Fabricio Ribeiro — Perito Judicial</description>
     <generator>Hugo</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sat, 26 Sep 2026 17:40:00 -0300</lastBuildDate>
-    <atom:link href="https://blog.peritofabricioribeiro.com.br/tags/computa%C3%A7%C3%A3o-forense/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:53494/tags/computa%C3%A7%C3%A3o-forense/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>O Papel Estratégico do Assistente Técnico em Casos de Provas Digitais</title>
-      <link>https://blog.peritofabricioribeiro.com.br/posts/importancia-assistente-tecnico-computacao-forense/</link>
+      <link>http://localhost:53494/posts/importancia-assistente-tecnico-computacao-forense/</link>
       <pubDate>Sat, 26 Sep 2026 17:40:00 -0300</pubDate>
-      <guid>https://blog.peritofabricioribeiro.com.br/posts/importancia-assistente-tecnico-computacao-forense/</guid>
+      <guid>http://localhost:53494/posts/importancia-assistente-tecnico-computacao-forense/</guid>
       <description>Descubra como a atuação de um assistente técnico especialista em computação forense é decisiva para validar ou impugnar provas digitais em processos judiciais.</description>
     </item>
     <item>
       <title>Metadados de documentos digitais: a prova que ninguém olha</title>
-      <link>https://blog.peritofabricioribeiro.com.br/posts/metadados-documentos-digitais-prova-ignorada/</link>
+      <link>http://localhost:53494/posts/metadados-documentos-digitais-prova-ignorada/</link>
       <pubDate>Sat, 26 Sep 2026 10:00:00 -0300</pubDate>
-      <guid>https://blog.peritofabricioribeiro.com.br/posts/metadados-documentos-digitais-prova-ignorada/</guid>
+      <guid>http://localhost:53494/posts/metadados-documentos-digitais-prova-ignorada/</guid>
       <description>Metadados revelam quando, como e por quem um documento digital foi criado ou alterado. Entenda por que essa prova é ignorada nos laudos periciais e como usá-la a favor do seu cliente.</description>
     </item>
   </channel>
