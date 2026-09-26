@@ -2,35 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Fabricio Ribeiro — Perito Judicial</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>https://blog.peritofabricioribeiro.com.br/</link>
     <description>Recent content on Fabricio Ribeiro — Perito Judicial</description>
     <generator>Hugo</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 26 Sep 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Sep 2026 19:23:45 -0300</lastBuildDate>
+    <atom:link href="https://blog.peritofabricioribeiro.com.br/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Como Impugnar um Laudo Pericial de Assinatura Eletrônica</title>
-      <link>http://localhost:1313/blog/posts/meu-primeiro-artigo/</link>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/posts/meu-primeiro-artigo/</guid>
-      <description>&lt;p&gt;O laudo pericial concluiu pela validade da assinatura. O juiz tende a acolher a conclusão. Mas isso não é o fim da linha.&lt;/p&gt;
-&lt;h2 id=&#34;o-que-pode-ser-questionado&#34;&gt;O que pode ser questionado&lt;/h2&gt;
-&lt;p&gt;Um laudo pericial de assinatura eletrônica pode ser impugnado quando apresenta:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Falhas na cadeia de custódia dos logs&lt;/li&gt;
-&lt;li&gt;Contradições em metadados&lt;/li&gt;
-&lt;li&gt;Ausência de validação biométrica (liveness)&lt;/li&gt;
-&lt;li&gt;Omissões em protocolos de autenticação&lt;/li&gt;
-&lt;li&gt;Erros na análise de hashes&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;o-prazo&#34;&gt;O prazo&lt;/h2&gt;
-&lt;p&gt;O prazo para impugnação é de &lt;strong&gt;15 dias&lt;/strong&gt; contados da juntada do laudo (Art. 477, § 1º, do CPC).&lt;/p&gt;</description>
+      <title>Nome</title>
+      <link>https://blog.peritofabricioribeiro.com.br/posts/nome/</link>
+      <pubDate>Sat, 26 Sep 2026 19:23:45 -0300</pubDate>
+      <guid>https://blog.peritofabricioribeiro.com.br/posts/nome/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>O Papel Estratégico do Assistente Técnico em Casos de Provas Digitais</title>
+      <link>https://blog.peritofabricioribeiro.com.br/posts/importancia-assistente-tecnico-computacao-forense/</link>
+      <pubDate>Sat, 26 Sep 2026 17:40:00 -0300</pubDate>
+      <guid>https://blog.peritofabricioribeiro.com.br/posts/importancia-assistente-tecnico-computacao-forense/</guid>
+      <description>Descubra como a atuação de um assistente técnico especialista em computação forense é decisiva para validar ou impugnar provas digitais em processos judiciais.</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/blog/about/</link>
+      <link>https://blog.peritofabricioribeiro.com.br/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/about/</guid>
+      <guid>https://blog.peritofabricioribeiro.com.br/about/</guid>
       <description>&lt;p&gt;-&amp;ndash;&lt;/p&gt;
 &lt;p&gt;title: &amp;ldquo;Sobre&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;date: 2026-09-26&lt;/p&gt;
