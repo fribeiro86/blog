@@ -46,7 +46,11 @@ jobs:
         run: |
           hugo \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+            --baseURL "https://blog.peritofabricioribeiro.com.br/"
+
+      # ⬇️ NOVO PASSO: garante que o CNAME esteja no public/
+      - name: Ensure CNAME exists
+        run: echo "blog.peritofabricioribeiro.com.br" > ./public/CNAME
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
