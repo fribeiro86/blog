@@ -366,3 +366,14 @@ html {
     margin: 2em 0;
     opacity: 0.5;
 }
+
+/* Imagem da página Sobre */
+.post-content img[alt*="Fabricio"],
+.post-content img[alt*="perito"] {
+    display: block;
+    margin: 1.5em auto;
+    max-width: 400px;
+    border-radius: 12px;
+    border: 3px solid var(--laranja);
+    box-shadow: 0 4px 12px rgba(241, 90, 36, 0.15);
+}

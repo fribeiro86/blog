@@ -4,6 +4,8 @@ date: 2026-09-26
 draft: false
 ---
 
+![Fabricio do Nascimento Ribeiro, perito judicial em computação forense credenciado pelo TJSC](/images/sobre-fabricio.png)
+
 Sou **Fabricio do Nascimento Ribeiro**, perito judicial em computação forense credenciado pelo Tribunal de Justiça de Santa Catarina (TJSC).
 
 Atuo na análise de assinaturas eletrônicas, cadeia de custódia de evidências digitais e impugnação de laudos periciais.
