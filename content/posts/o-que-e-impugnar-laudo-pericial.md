@@ -45,7 +45,7 @@ Sim. O perito tem o **dever legal** de responder aos pontos controvertidos. Ele 
 **Faz sentido impugnar quando:**
 - O laudo apresenta falhas técnicas identificáveis
 - Há contradições entre a fundamentação e a conclusão
-- A cadeia de custódia foi comprometida
+- A [cadeia de custódia digital](/posts/cadeia-de-custodia-digital/). foi comprometida
 - O método de análise não segue as normas técnicas
 
 **NÃO faz sentido impugnar quando:**
@@ -64,7 +64,7 @@ Quando o laudo trata de **assinatura digital**, a impugnação ganha contornos e
 Uma assinatura digital pode ser **criptograficamente válida** e, ao mesmo tempo, **probatoriamente frágil**.
 
 - **Validade criptográfica** é a validade matemática. O certificado está no prazo? A cadeia de certificação está íntegra? O hash confere? O carimbo de tempo é autêntico?
-- **Validade probatória** é a validade jurídica. Quem assinou? Quando? Como? O titular do certificado estava presente? A cadeia de custódia foi respeitada?
+- **Validade probatória** é a validade jurídica. Quem assinou? Quando? Como? O titular do certificado estava presente? A [cadeia de custódia digital](/posts/cadeia-de-custodia-digital/). foi respeitada?
 
 É exatamente aí que mora a brecha. Um laudo pode afirmar "a assinatura é válida" com base apenas na validade criptográfica — e ignorar completamente a validade probatória.
 

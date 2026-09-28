@@ -15,6 +15,8 @@ A maioria dos advogados para por aqui. Lê o resultado, fecha o laudo, e tenta r
 
 O problema é que **validade criptográfica não é a mesma coisa que validade probatória**. E é exatamente aí que mora a brecha.
 
+Para entender como a cadeia de custódia se conecta a essa brecha, leia o artigo [Cadeia de Custódia Digital: O que é e Por que é Decisiva em Processos Judiciais](/posts/cadeia-de-custodia-digital/).
+
 Neste artigo, vou mostrar — com base em casos reais que atendo — **quando uma assinatura ICP-Brasil é realmente prova suficiente em juízo, e quando ela é apenas um dos elementos que precisam ser confrontados**.
 
 ![Validação de certificado digital ICP-Brasil em documento assinado eletronicamente](/images/icp-validacao.jfif)
