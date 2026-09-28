@@ -372,8 +372,8 @@ html {
 .post-content img[alt*="perito"] {
     display: block;
     margin: 1.5em auto;
-    width: 180px;
-    height: 180px;
+    width: 250px;
+    height: 250px;
     border-radius: 50%;
     object-fit: cover;
     border: 3px solid var(--laranja);
