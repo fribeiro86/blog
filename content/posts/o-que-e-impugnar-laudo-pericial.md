@@ -136,6 +136,49 @@ Impugnar sem fundamento técnico é pior do que não impugnar. O advogado que ap
 
 Antes de impugnar, procure um assistente técnico. Ele vai dizer, com honestidade, se vale a pena.
 
+## Perguntas Frequentes
+
+### O que é impugnar um laudo pericial?
+
+Impugnar um laudo pericial é analisar tecnicamente, ponto a ponto, as limitações do laudo. Não é dizer "não concordo" — é apontar falhas metodológicas, contradições e vulnerabilidades com fundamento técnico.
+
+### Qual é o prazo para impugnar um laudo pericial?
+
+O prazo é de 15 dias contados da juntada do laudo aos autos, conforme o Art. 477, § 1º, do CPC. Nesse prazo, as partes podem apresentar sua manifestação e o assistente técnico pode juntar seu parecer.
+
+### O que acontece se o prazo passar?
+
+Após o prazo, o perito do juízo tem mais 15 dias para responder aos pontos controvertidos. Se o prazo para manifestação das partes passar sem impugnação, a parte pode perder a oportunidade de questionar o laudo naquela fase processual.
+
+### O perito é obrigado a responder à impugnação?
+
+Sim. O Art. 477, § 2º, do CPC estabelece que o perito do juízo tem o dever de esclarecer pontos sobre os quais exista divergência ou dúvida, inclusive os apresentados no parecer do assistente técnico.
+
+### O que é um laudo de assinatura digital?
+
+É um laudo pericial que analisa a validade de uma assinatura eletrônica. Pode envolver verificação de certificado digital, cadeia de certificação, carimbo de tempo, hash e outros elementos técnicos.
+
+### Qual a diferença entre validade criptográfica e validade probatória?
+
+Validade criptográfica é a validade matemática da assinatura (certificado no prazo, cadeia íntegra, hash confere). Validade probatória é a validade jurídica (quem assinou, quando, como, se o titular estava presente). Uma assinatura pode ser criptograficamente válida e, ao mesmo tempo, probatoriamente frágil.
+
+### O que é um assistente técnico e qual o seu papel?
+
+O assistente técnico é o braço técnico do advogado. Ele audita o laudo, identifica falhas, verifica a cadeia de custódia e produz o parecer técnico que fundamenta a impugnação. Ele é contratado pela parte, não é nomeado pelo juiz.
+
+### O juiz é obrigado a acolher a impugnação?
+
+Não. O juiz pode acolher ou ignorar a impugnação. O laudo e o parecer são apenas provas que podem abastecer o convencimento do magistrado. Mas uma impugnação bem-feita pode mudar o curso do processo.
+
+### Quando NÃO faz sentido impugnar um laudo?
+
+Quando o laudo é robusto e bem fundamentado, quando não há falha técnica identificável, ou quando a impugnação seria apenas retórica. Impugnar sem fundamento técnico é pior do que não impugnar.
+
+### Como saber se vale a pena impugnar?
+
+O ideal é contratar um assistente técnico especializado para auditar o laudo. Ele vai avaliar, com honestidade, se há fundamento técnico para a impugnação.
+
+
 ## Conclusão
 
 Impugnar um laudo pericial é um trabalho técnico, minucioso e estratégico. Não é uma petição genérica. É uma contraposição científica que exige conhecimento específico.
@@ -143,6 +186,8 @@ Impugnar um laudo pericial é um trabalho técnico, minucioso e estratégico. N�
 Na área de assinaturas digitais, as falhas são frequentes — mas só um olhar forense treinado consegue identificá-las. Se você recebeu um laudo desfavorável e precisa avaliar se há espaço para impugnação, estou à disposição.
 
 ---
+
+
 
 **Precisa avaliar se um laudo de assinatura digital pode ser impugnado?**
 
