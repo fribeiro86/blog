@@ -9,6 +9,8 @@ ShowReadingTime: false
 ShowShareButtons: false
 ShowBreadCrumbs: true
 ---
+![Fabricio do Nascimento Ribeiro, perito judicial em computação forense credenciado pelo TJSC](/images/sobre-fabricio.png)
+
 
 # Fabricio do Nascimento Ribeiro
 
@@ -49,7 +51,6 @@ Se você está com um laudo pericial desfavorável e precisa avaliar se há espa
 ---
 
 
-![Fabricio do Nascimento Ribeiro, perito judicial em computação forense credenciado pelo TJSC](/images/sobre-fabricio.png)
 
 *Este blog é mantido por Fabricio do Nascimento Ribeiro, perito judicial em computação forense credenciado pelo TJSC.*
 
