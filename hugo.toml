@@ -18,6 +18,29 @@ theme = "PaperMod"
   disableSpecial1stPost = false
   displayFullLangName = false
   ShowFullTextinRSS = false
+   env = "production"
+  DateFormat = "2 January 2006"   # ou "02/01/2006"
+  ShowLastMod = true
+  ShowWordCount = true
+  ShowCanonical = true
+
+  [params.giscus]
+    repo = "seu-usuario/seu-repo"
+    repoId = "R_xxxxx"
+    category = "General"
+    categoryId = "DIC_xxxxx"
+    mapping = "pathname"
+    theme = "dark_dimmed"
+    lang = "pt"
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
  
   [params.homeInfoParams]
     Title = "Blog do Fabricio Ribeiro"
@@ -42,6 +65,25 @@ theme = "PaperMod"
     name = "Sobre"
     url = "/about/"
     weight = 20
+
+    [[menu.main]]
+  identifier = "categorias"
+  name = "Categorias"
+  url = "/categories/"
+  weight = 15
+
+  [[menu.main]]
+  identifier = "tags"
+  name = "Tags"
+  url = "/tags/"
+  weight = 16
+
+[[menu.main]]
+  identifier = "contato"
+  name = "Contato"
+  url = "/contato/"
+  weight = 30
+
 
  [params.assets]
     favicon = "/favicon.ico"
