@@ -380,20 +380,3 @@ html {
     box-shadow: 0 4px 12px rgba(241, 90, 36, 0.15);
 }
 
-/* Banner do Cabeçalho */
-.header {
-    background: linear-gradient(135deg, #1a3a5c 0%, #2c5f8a 100%);
-    min-height: 200px; /* Altura do banner */
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    border-bottom: none; /* Remove a linha de borda padrão */
-}
-
-/* Estilização do texto dentro do banner (opcional) */
-.header .logo a {
-    color: #ffffff; /* Cor do título */
-    font-size: 2em;
-    font-weight: 700;
-}
