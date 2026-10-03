@@ -1,4 +1,4 @@
 public/
 resources/
 .hugo_build.lock
-.DS_Store
+.DS_Store5001033-31.2025.8.24.0159

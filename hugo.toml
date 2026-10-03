@@ -1,5 +1,6 @@
 baseURL = "https://blog.peritofabricioribeiro.com.br/"
 languageCode = "pt-BR"
+defaultContentLanguage = "pt-br"
 title = "Fabricio Ribeiro — Perito Judicial"
 theme = "PaperMod"
 
