@@ -1,7 +1,7 @@
 ---
 title: "IP e Porta Lógica na Assinatura Eletrônica: Guia do Perito Judicial"
 description: "Entenda por que o IP sozinho não prova autoria em assinatura eletrônica, o papel da porta lógica em ambiente CGNAT e o que diz o Art. 15-A do Decreto nº 12.975/2026."
-date: 2026-05-21
+date: 2026-10-07
 draft: false
 slug: "ip-e-porta-logica-na-assinatura-eletronica"
 tags:
