@@ -9,8 +9,6 @@ slug: "laudo-pericial-digital-7-erros-anulam-prova"
 draft: false
 ---
 
-# Laudo Pericial Digital: Os 7 Erros que Anulam a Prova no Processo
-
 *Entenda por que a maioria dos advogados perde a chance de impugnar um laudo pericial digital — e como identificar, com técnica, os erros que fazem o juiz desconsiderar a prova.*
 
 16 outubro 2026 · 9 min · 1.850 words · Fabricio do Nascimento Ribeiro
