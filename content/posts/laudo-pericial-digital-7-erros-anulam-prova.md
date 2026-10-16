@@ -17,7 +17,7 @@ draft: false
 
 ---
 
-![Laudo pericial digital com destaque para a conclusão e a palavra IP](images/laudo-pericial-digital-capa.jfif)
+![Laudo pericial digital com destaque para a conclusão e a palavra IP](/images/capa.jpg)
 *Legenda: o laudo pericial digital não é prova cabal — é meio de prova.*
 
 ---
@@ -58,7 +58,7 @@ A porta lógica individualiza a conexão. Mas mesmo ela **não prova quem assino
 
 A porta lógica leva você até a casa. Não até a pessoa que estava no computador naquele momento.
 
-![Diagrama de CGNAT mostrando vários usuários compartilhando o mesmo IP](images/cgnat-ip-compartilhado.webp)
+![Diagrama de CGNAT mostrando vários usuários compartilhando o mesmo IP](/images/cgnat-ip-compartilhado.jpg)
 *Legenda: em CGNAT, o IP é compartilhado — a individualização exige a porta lógica.*
 
 **O erro:** tratar indício de localização como prova de autoria.
@@ -75,7 +75,7 @@ A porta lógica é o dado que, dentro da tabela NAT da provedora, permite saber 
 
 O Decreto nº 12.975/2026, Art. 15-A, incluiu a porta lógica de origem na obrigação de guarda de registros de IP. A guarda é **prévia** e independe de requisição judicial.
 
-![Tabela NAT com porta lógica destacada para individualizar conexão](images/tabela-nat-porta-logica.jfif)
+![Tabela NAT com porta lógica destacada para individualizar conexão](/images/tabela-nat-porta-logica.jpg)
 *Legenda: a porta lógica é o dado que individualiza a conexão dentro da provedora.*
 
 **O erro:** aceitar laudo que só tem IP.
@@ -92,7 +92,7 @@ Por isso, a cadeia de custódia digital exige método. O principal é o **hash**
 
 Se o hash recalculado bate com o original, a prova é íntegra. Se não bate, a prova foi alterada.
 
-![Cálculo de hash SHA-256 para verificação de integridade de prova digital](images/hash-cadeia-custodia-digital.jfif)
+![Cálculo de hash SHA-256 para verificação de integridade de prova digital](/images/hash-cadeia-custodia-digital.jpg)
 *Legenda: o hash é o que garante que a prova digital não foi alterada.*
 
 **O erro:** laudo que não documenta de onde veio o dado, quem capturou, quando, com qual ferramenta e qual o hash no momento da coleta.
@@ -143,7 +143,7 @@ O assistente técnico verifica:
 
 Se o perito tratou IP como identidade, o assistente tem base para impugnar. Se a porta lógica não foi documentada, a individualização é frágil. Se o fuso não foi observado, a correlação pode estar deslocada.
 
-![Assistente técnico analisando laudo pericial digital](images/assistente-tecnico-laudo-pericial.jfif)
+![Assistente técnico analisando laudo pericial digital](/images/assistente-tecnico-laudo-pericial.jpg)
 *Legenda: o assistente técnico é quem separa o dado bruto da interpretação.*
 
 **O erro:** aceitar ou impugnar laudo sem leitura técnica.
