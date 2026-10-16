@@ -67,7 +67,7 @@ A porta lógica leva você até a casa. Não até a pessoa que estava no computa
 
 ## 3. Ignorar a porta lógica em ambiente CGNAT
 
-Se o log do laudo traz apenas IP, sem porta lógica, a individualização é impossível.
+Se o log do laudo traz apenas IP, sem [porta lógica](https://blog.peritofabricioribeiro.com.br/posts/ip-e-porta-logica-na-assinatura-eletronica/), a individualização é impossível.
 
 A porta lógica é o dado que, dentro da tabela NAT da provedora, permite saber qual usuário estava usando aquele IP naquele momento. Sem ela, a provedora sabe qual IP foi usado — mas não sabe qual dos inúmeros usuários atrás daquele IP era o responsável.
 
@@ -80,13 +80,12 @@ O Decreto nº 12.975/2026, Art. 15-A, incluiu a porta lógica de origem na obrig
 
 **O que fazer:** exigir a porta lógica. Se a provedora alegar que não guardou, isso contraria obrigação normativa expressa.
 
----
-
 ## 4. Não documentar a cadeia de custódia digital
 
 Na prova física, a alteração exige ação material. Na prova digital, a alteração é imaterial e volátil — um arquivo pode ser modificado ou deletado sem deixar vestígios aparentes.
 
-Por isso, a cadeia de custódia digital exige método. O principal é o **hash**: uma função matemática que gera um código único para cada arquivo. Qualquer alteração faz o hash mudar completamente.
+
+Por isso, a [cadeia de custódia digital](https://blog.peritofabricioribeiro.com.br/posts/cadeia-de-custodia-digital/) exige método. O principal é o **hash**: uma função matemática que gera um código único para cada arquivo. Qualquer alteração faz o hash mudar completamente.
 
 Se o hash recalculado bate com o original, a prova é íntegra. Se não bate, a prova foi alterada.
 
