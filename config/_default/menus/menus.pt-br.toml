@@ -1,0 +1,15 @@
+[[main]]
+  name = "Artigos"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "Categorias"
+  pageRef = "categories"
+  weight = 20
+
+
+[[main]]
+  name = "Sobre"
+  pageRef = "about"
+  weight = 40

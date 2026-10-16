@@ -7,9 +7,12 @@ tags: ["Perícia Digital", "Laudo Pericial", "Prova Digital", "Assistente Técni
 categories: ["Perícia Digital"]
 slug: "laudo-pericial-digital-7-erros-anulam-prova"
 draft: false
----
 
+
+---
+{{< lead >}}
 *Entenda por que a maioria dos advogados perde a chance de impugnar um laudo pericial digital — e como identificar, com técnica, os erros que fazem o juiz desconsiderar a prova.*
+{{< /lead >}}
 
 16 outubro 2026 · 9 min · 1.850 words · Fabricio do Nascimento Ribeiro
 
@@ -30,6 +33,8 @@ E quando a impugnação não tem técnica, o juiz tende a aceitar o que o perito
 
 Este artigo não é sobre como virar perito. É sobre os **7 erros mais comuns em laudos periciais digitais** que fazem a prova perder valor — e que o advogado precisa saber identificar antes de aceitar a conclusão.
 
+
+
 ---
 
 ## 1. Tratar o laudo como prova cabal
@@ -42,8 +47,12 @@ Na prática, porém, o que se vê é o contrário: o laudo chega, ninguém quest
 
 **O erro:** aceitar o laudo como se fosse definitivo.
 
-**O que fazer:** ler o laudo inteiro. Não só a conclusão. Metodologia, premissas, limitações, anexos. O que o perito **não** disse costuma ser mais importante do que o que ele disse.
 
+{{< alert "warning" >}}
+{{< typeit >}}
+O que fazer: ler o laudo inteiro. Não só a conclusão. Metodologia, premissas, limitações, anexos. O que o perito não disse costuma ser mais importante do que o que ele disse.
+{{< /typeit >}}
+{{< /alert >}}
 ---
 
 ## 2. Confundir conexão individualizada com autoria comprovada

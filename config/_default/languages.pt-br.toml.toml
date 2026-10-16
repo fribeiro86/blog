@@ -1,0 +1,23 @@
+disabled = false
+locale = "pt-br"
+label = "Português"
+weight = 1
+title = "Fabricio Ribeiro — Especialista em Computação Forense"
+
+[params]
+  displayName = "PT"
+  isoCode = "pt-BR"
+  rtl = false
+  dateFormat = "2 January 2006"
+  description = "Computação forense, impugnação de laudo pericial e assinatura eletrônica."
+
+  [params.author]
+    name = "Fabricio do Nascimento Ribeiro"
+    image = "img/author.png"
+    imageQuality = 96
+    headline = "Especialista em Computação Forense"
+    bio = "Perito judicial, atuando em prova digital, cadeia de custódia e assinatura eletrônica."
+    links = [
+      { linkedin = "https://www.linkedin.com/in/fabricio-ribeiro-perito" },
+      { instagram = "https://www.instagram.com/perito_fabriciorib_sc/" }
+    ]

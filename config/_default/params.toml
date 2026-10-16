@@ -1,0 +1,145 @@
+# -- Theme Options --
+# Refer to the theme docs for more details about each of these parameters.
+# https://blowfish.page/docs/configuration/#theme-parameters
+
+colorScheme = "one-light"
+defaultAppearance = "light"
+autoSwitchAppearance = true
+
+enableA11y = true
+enableSearch = true
+enableCodeCopy = false
+enableStructuredBreadcrumbs = false
+
+replyByEmail = false
+
+mainSections = ["posts"]
+
+disableImageOptimization = false
+disableImageOptimizationMD = false
+disableTextInHeader = false
+
+hotlinkFeatureImage = false
+
+fingerprintAlgorithm = "sha512"
+
+giteaDefaultServer = "https://git.fsfe.org"
+forgejoDefaultServer = "https://v11.next.forgejo.org"
+
+[languageRedirect]
+  enabled = false
+  storageKey = "blowfish_preferred_language"
+  browserRedirectHomeOnly = true
+  storedLanguageRedirect = true
+
+[seo]
+  # metaDescriptionOrder = ["summary", "description", "site"]
+
+[header]
+  layout = "basic"
+
+[footer]
+  showMenu = true
+  showCopyright = true
+  showThemeAttribution = true
+  showAppearanceSwitcher = true
+  showScrollToTop = true
+
+[homepage]
+  layout = "page"
+  showRecent = true
+  showRecentItems = 5
+  showMoreLink = false
+  showMoreLinkDest = "/posts/"
+  cardView = true
+  cardViewScreenWidth = false
+  layoutBackgroundBlur = false
+  disableHeroImageFilter = false
+
+[article]
+  showDate = true
+  showViews = false
+  showLikes = false
+  showDateOnlyInArticle = false
+  showDateUpdated = false
+  showAuthor = true
+  showHero = true
+  heroStyle = "basic"
+  layoutBackgroundBlur = true
+  layoutBackgroundHeaderSpace = false
+  showBreadcrumbs = false
+  showDraftLabel = true
+  showEdit = false
+  editAppendPath = true
+  seriesOpened = false
+  showHeadingAnchors = true
+  showPagination = true
+  invertPagination = false
+  showReadingTime = true
+  showReadingProgress = true
+  showTableOfContents = true
+  showTaxonomies = false
+  showCategories = true
+  showTags = true
+  showCategoriesInSecondaryColor = false
+  showAuthorsBadges = false
+  showWordCount = true
+  showZenMode = false
+  sharingLinks = [ "linkedin", "whatsapp", "email" ]
+
+
+[list]
+  showHero = false
+  layoutBackgroundBlur = true
+  layoutBackgroundHeaderSpace = false
+  showBreadcrumbs = false
+  showSummary = false
+  showViews = false
+  showLikes = false
+  showTableOfContents = false
+  showCards = false
+  orderByWeight = false
+  groupByYear = true
+  cardView = true
+  cardViewScreenWidth = true
+  constrainItemsWidth = true
+
+[sitemap]
+  excludedKinds = ["taxonomy", "term"]
+
+[taxonomy]
+  showTermCount = true
+  showHero = false
+  layoutBackgroundBlur = true
+  layoutBackgroundHeaderSpace = false
+  showBreadcrumbs = false
+  showViews = false
+  showLikes = false
+  showTableOfContents = false
+  cardView = false
+
+[term]
+  showHero = false
+  layoutBackgroundBlur = true
+  layoutBackgroundHeaderSpace = false
+  showBreadcrumbs = false
+  showViews = false
+  showLikes = false
+  showTableOfContents = true
+  groupByYear = false
+  cardView = false
+  cardViewScreenWidth = false
+
+[author]
+  name = "Fabricio do Nascimento Ribeiro"
+  image = "img/author.png"
+  headline = "Especialista em Computação Forense"
+  bio = "Perito judicial, atuando em prova digital, cadeia de custódia e assinatura eletrônica."
+  links = [
+    { linkedin = "https://www.linkedin.com/in/fabricio-ribeiro-perito" },
+    { instagram = "https://www.instagram.com/perito_fabriciorib_sc/" }
+  ]
+
+[verification]
+  # google = ""
+  # bing = ""
