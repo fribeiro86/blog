@@ -1,13 +1,12 @@
 ---
 title: "Laudo Pericial Digital: Os 7 Erros que Anulam a Prova no Processo"
-date: 2026-10-16
+date: 2026-10-22
 author: "Fabricio do Nascimento Ribeiro"
 description: "Os 7 erros mais comuns em laudos periciais digitais que fazem o juiz desconsiderar a prova. Guia prático para advogados que querem impugnar com técnica."
 tags: ["Perícia Digital", "Laudo Pericial", "Prova Digital", "Assistente Técnico", "Cadeia de Custódia", "Direito Digital"]
 categories: ["Perícia Digital"]
 slug: "laudo-pericial-digital-7-erros-anulam-prova"
 draft: false
-
 
 ---
 {{< lead >}}
