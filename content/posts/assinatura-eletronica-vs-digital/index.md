@@ -1,6 +1,6 @@
 ---
 title: "Assinatura Eletrônica vs. Assinatura Digital: O Que o Advogado Precisa Saber Antes de Aceitar um Laudo"
-date: 2026-10-23
+date: 2026-10-22
 draft: false
 author: "Fabricio do Nascimento Ribeiro"
 description: "Entenda a diferença técnica entre assinatura eletrônica e digital. Descubra por que confundir os conceitos pode custar a prova no processo e como exigir o laudo correto."
