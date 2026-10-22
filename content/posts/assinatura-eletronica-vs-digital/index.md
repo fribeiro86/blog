@@ -101,4 +101,4 @@ Não. A lei permite outros níveis. Mas se o banco usa uma assinatura simples e 
 
 ---
 
-*Se o seu processo envolve prova digital e você precisa auditar a validade de uma assinatura eletrônica ou digital, [solicite um diagnóstico de viabilidade](/#contato).*
+*Se o seu processo envolve prova digital e você precisa auditar a validade de uma assinatura eletrônica ou digital,[Solicitar diagnóstico de viabilidade →](https://peritofabricioribeiro.com.br)
